@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: registry.cn-hangzhou.aliyuncs.com/chenhuan0103/get-started
+    image: bianxiaotuan/get-started
     deploy:
       replicas: 5
       resources:
